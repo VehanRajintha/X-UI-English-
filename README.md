@@ -33,8 +33,7 @@ Another Translated-to-English Version of X-UI; with some of more advanced featur
 # Single Command Install & upgrade
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/VehanRajintha/X-UI-English-
-/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/VehanRajintha/X-UI-English-/master/install.sh)
 ````
 
 ## Manual install & upgrade
