@@ -14,6 +14,9 @@
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
+
+![IMG_20231009_094949](IMG_20231009_094949.jpg)
+
 Another Translated-to-English Version of X-UI; with some of more advanced features implemented. 
  
 
