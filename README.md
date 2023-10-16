@@ -1,5 +1,7 @@
 # X-UI-English-
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=X+UI+English+Version+Web+Panal)](https://git.io/typing-svg) 
+
 # X-UI ENGLISH VERSION 
 
 
